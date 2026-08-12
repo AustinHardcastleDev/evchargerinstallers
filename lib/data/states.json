@@ -1,0 +1,3059 @@
+{
+  "tn": {
+    "slug": "tn",
+    "name": "Tennessee",
+    "abbr": "TN",
+    "totalListings": 27,
+    "explicitCount": 17,
+    "highCount": 8,
+    "mediumCount": 2,
+    "withPhone": 27,
+    "withEmail": 17,
+    "withReviewTags": 27,
+    "withGeneratorReviews": 16,
+    "topCities": [
+      {
+        "city": "Hendersonville",
+        "count": 2
+      },
+      {
+        "city": "Powell",
+        "count": 1
+      },
+      {
+        "city": "Nashville",
+        "count": 1
+      },
+      {
+        "city": "Murfreesboro",
+        "count": 1
+      },
+      {
+        "city": "Memphis",
+        "count": 1
+      },
+      {
+        "city": "Lenoir City",
+        "count": 1
+      },
+      {
+        "city": "Nolensville",
+        "count": 1
+      },
+      {
+        "city": "Clarksville",
+        "count": 1
+      },
+      {
+        "city": "Shelbyville",
+        "count": 1
+      },
+      {
+        "city": "Gray",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Chattanooga",
+      "Clarksville",
+      "Cleveland",
+      "Goodlettsville",
+      "Gray",
+      "Hendersonville",
+      "Knoxville",
+      "Lebanon",
+      "Lenoir City",
+      "Memphis",
+      "Murfreesboro",
+      "Nashville",
+      "Nolensville",
+      "Powell",
+      "Shelbyville"
+    ]
+  },
+  "al": {
+    "slug": "al",
+    "name": "Alabama",
+    "abbr": "AL",
+    "totalListings": 11,
+    "explicitCount": 7,
+    "highCount": 3,
+    "mediumCount": 1,
+    "withPhone": 10,
+    "withEmail": 8,
+    "withReviewTags": 9,
+    "withGeneratorReviews": 6,
+    "topCities": [
+      {
+        "city": "Birmingham",
+        "count": 2
+      },
+      {
+        "city": "Opelika",
+        "count": 1
+      },
+      {
+        "city": "Trussville",
+        "count": 1
+      },
+      {
+        "city": "Muscle Shoals",
+        "count": 1
+      },
+      {
+        "city": "Trinity",
+        "count": 1
+      },
+      {
+        "city": "Auburn",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Auburn",
+      "Birmingham",
+      "Muscle Shoals",
+      "Opelika",
+      "Trinity",
+      "Trussville"
+    ]
+  },
+  "ky": {
+    "slug": "ky",
+    "name": "Kentucky",
+    "abbr": "KY",
+    "totalListings": 9,
+    "explicitCount": 8,
+    "highCount": 0,
+    "mediumCount": 1,
+    "withPhone": 9,
+    "withEmail": 6,
+    "withReviewTags": 8,
+    "withGeneratorReviews": 4,
+    "topCities": [
+      {
+        "city": "Louisville",
+        "count": 2
+      },
+      {
+        "city": "Florence",
+        "count": 2
+      },
+      {
+        "city": "Lexington",
+        "count": 1
+      },
+      {
+        "city": "La Grange",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Florence",
+      "La Grange",
+      "Lexington",
+      "Louisville"
+    ]
+  },
+  "ms": {
+    "slug": "ms",
+    "name": "Mississippi",
+    "abbr": "MS",
+    "totalListings": 4,
+    "explicitCount": 3,
+    "highCount": 1,
+    "mediumCount": 0,
+    "withPhone": 4,
+    "withEmail": 4,
+    "withReviewTags": 4,
+    "withGeneratorReviews": 3,
+    "topCities": [
+      {
+        "city": "Nesbit",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Nesbit"
+    ]
+  },
+  "ga": {
+    "slug": "ga",
+    "name": "Georgia",
+    "abbr": "GA",
+    "totalListings": 43,
+    "explicitCount": 26,
+    "highCount": 17,
+    "mediumCount": 0,
+    "withPhone": 42,
+    "withEmail": 33,
+    "withReviewTags": 40,
+    "withGeneratorReviews": 25,
+    "topCities": [
+      {
+        "city": "Atlanta",
+        "count": 5
+      },
+      {
+        "city": "Alpharetta",
+        "count": 3
+      },
+      {
+        "city": "Cumming",
+        "count": 2
+      },
+      {
+        "city": "Lawrenceville",
+        "count": 2
+      },
+      {
+        "city": "Dacula",
+        "count": 2
+      },
+      {
+        "city": "Peachtree City",
+        "count": 1
+      },
+      {
+        "city": "Jasper",
+        "count": 1
+      },
+      {
+        "city": "Norcross",
+        "count": 1
+      },
+      {
+        "city": "Acworth",
+        "count": 1
+      },
+      {
+        "city": "Dunwoody",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Acworth",
+      "Alpharetta",
+      "Atlanta",
+      "Cumming",
+      "Dacula",
+      "Dunwoody",
+      "East Point",
+      "Gainesville",
+      "Garden City",
+      "Holly Springs",
+      "Jasper",
+      "Jonesboro",
+      "Kennesaw",
+      "Lawrenceville",
+      "Lithia Springs",
+      "Monroe",
+      "Newnan",
+      "Norcross",
+      "Oakwood",
+      "Peachtree City",
+      "Rome",
+      "Roswell",
+      "St Simons Island",
+      "Stonecrest",
+      "Tucker",
+      "Union City",
+      "Watkinsville"
+    ]
+  },
+  "sc": {
+    "slug": "sc",
+    "name": "South Carolina",
+    "abbr": "SC",
+    "totalListings": 34,
+    "explicitCount": 26,
+    "highCount": 6,
+    "mediumCount": 2,
+    "withPhone": 34,
+    "withEmail": 20,
+    "withReviewTags": 32,
+    "withGeneratorReviews": 21,
+    "topCities": [
+      {
+        "city": "Columbia",
+        "count": 6
+      },
+      {
+        "city": "Greenville",
+        "count": 3
+      },
+      {
+        "city": "Fort Mill",
+        "count": 2
+      },
+      {
+        "city": "Greer",
+        "count": 2
+      },
+      {
+        "city": "Myrtle Beach",
+        "count": 2
+      },
+      {
+        "city": "Bluffton",
+        "count": 1
+      },
+      {
+        "city": "Joint Base Charleston",
+        "count": 1
+      },
+      {
+        "city": "Duncan",
+        "count": 1
+      },
+      {
+        "city": "Taylors",
+        "count": 1
+      },
+      {
+        "city": "Charleston",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bluffton",
+      "Charleston",
+      "Columbia",
+      "Duncan",
+      "Fort Mill",
+      "Greenville",
+      "Greer",
+      "Joint Base Charleston",
+      "Myrtle Beach",
+      "North Charleston",
+      "Prosperity",
+      "Simpsonville",
+      "Taylors",
+      "York"
+    ]
+  },
+  "nc": {
+    "slug": "nc",
+    "name": "North Carolina",
+    "abbr": "NC",
+    "totalListings": 40,
+    "explicitCount": 23,
+    "highCount": 16,
+    "mediumCount": 1,
+    "withPhone": 39,
+    "withEmail": 26,
+    "withReviewTags": 37,
+    "withGeneratorReviews": 34,
+    "topCities": [
+      {
+        "city": "Raleigh",
+        "count": 9
+      },
+      {
+        "city": "Cary",
+        "count": 2
+      },
+      {
+        "city": "Charlotte",
+        "count": 2
+      },
+      {
+        "city": "Apex",
+        "count": 1
+      },
+      {
+        "city": "Fuquay-Varina",
+        "count": 1
+      },
+      {
+        "city": "High Point",
+        "count": 1
+      },
+      {
+        "city": "Garner",
+        "count": 1
+      },
+      {
+        "city": "Mebane",
+        "count": 1
+      },
+      {
+        "city": "Greensboro",
+        "count": 1
+      },
+      {
+        "city": "Wake Forest",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Apex",
+      "Cary",
+      "Charlotte",
+      "Fuquay-Varina",
+      "Garner",
+      "Greensboro",
+      "High Point",
+      "Hildebran",
+      "Mebane",
+      "Mocksville",
+      "Raleigh",
+      "Summerfield",
+      "Wake Forest",
+      "Wilmington"
+    ]
+  },
+  "fl": {
+    "slug": "fl",
+    "name": "Florida",
+    "abbr": "FL",
+    "totalListings": 75,
+    "explicitCount": 46,
+    "highCount": 21,
+    "mediumCount": 8,
+    "withPhone": 74,
+    "withEmail": 50,
+    "withReviewTags": 70,
+    "withGeneratorReviews": 53,
+    "topCities": [
+      {
+        "city": "Miami",
+        "count": 7
+      },
+      {
+        "city": "Tampa",
+        "count": 3
+      },
+      {
+        "city": "Hollywood",
+        "count": 3
+      },
+      {
+        "city": "Orlando",
+        "count": 3
+      },
+      {
+        "city": "Leesburg",
+        "count": 2
+      },
+      {
+        "city": "West Palm Beach",
+        "count": 2
+      },
+      {
+        "city": "Coconut Creek",
+        "count": 2
+      },
+      {
+        "city": "Clearwater",
+        "count": 2
+      },
+      {
+        "city": "Lakeland",
+        "count": 2
+      },
+      {
+        "city": "Fort Lauderdale",
+        "count": 2
+      }
+    ],
+    "allCities": [
+      "Aventura",
+      "Brooksville",
+      "Casselberry",
+      "Clearwater",
+      "Clermont",
+      "Coconut Creek",
+      "Coral Gables",
+      "Coral Springs",
+      "Delray Beach",
+      "Doral",
+      "Fort Lauderdale",
+      "Fort Myers",
+      "Hallandale Beach",
+      "Hialeah",
+      "Hollywood",
+      "Jacksonville",
+      "Kissimmee",
+      "Lakeland",
+      "Land O' Lakes",
+      "Largo",
+      "Lauderdale Lakes",
+      "Leesburg",
+      "Miami",
+      "North Miami Beach",
+      "Odessa",
+      "Orlando",
+      "Plant City",
+      "Plantation",
+      "Pompano Beach",
+      "Sanford",
+      "Southwest Ranches",
+      "St. Augustine",
+      "St. Petersburg",
+      "Stuart",
+      "Tamarac",
+      "Tampa",
+      "Tarpon Springs",
+      "Titusville",
+      "Valrico",
+      "West Palm Beach",
+      "Winter Garden",
+      "Winter Park"
+    ]
+  },
+  "la": {
+    "slug": "la",
+    "name": "Louisiana",
+    "abbr": "LA",
+    "totalListings": 17,
+    "explicitCount": 13,
+    "highCount": 4,
+    "mediumCount": 0,
+    "withPhone": 17,
+    "withEmail": 11,
+    "withReviewTags": 16,
+    "withGeneratorReviews": 5,
+    "topCities": [
+      {
+        "city": "Baton Rouge",
+        "count": 3
+      },
+      {
+        "city": "Monroe",
+        "count": 2
+      },
+      {
+        "city": "West Monroe",
+        "count": 1
+      },
+      {
+        "city": "Lake Charles",
+        "count": 1
+      },
+      {
+        "city": "New Iberia",
+        "count": 1
+      },
+      {
+        "city": "New Orleans",
+        "count": 1
+      },
+      {
+        "city": "Metairie",
+        "count": 1
+      },
+      {
+        "city": "Broussard",
+        "count": 1
+      },
+      {
+        "city": "Laplace",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Baton Rouge",
+      "Broussard",
+      "Lake Charles",
+      "Laplace",
+      "Metairie",
+      "Monroe",
+      "New Iberia",
+      "New Orleans",
+      "West Monroe"
+    ]
+  },
+  "ar": {
+    "slug": "ar",
+    "name": "Arkansas",
+    "abbr": "AR",
+    "totalListings": 11,
+    "explicitCount": 4,
+    "highCount": 7,
+    "mediumCount": 0,
+    "withPhone": 11,
+    "withEmail": 8,
+    "withReviewTags": 11,
+    "withGeneratorReviews": 7,
+    "topCities": [
+      {
+        "city": "North Little Rock",
+        "count": 2
+      },
+      {
+        "city": "Fayetteville",
+        "count": 1
+      },
+      {
+        "city": "Bella Vista",
+        "count": 1
+      },
+      {
+        "city": "Centerton",
+        "count": 1
+      },
+      {
+        "city": "Lowell",
+        "count": 1
+      },
+      {
+        "city": "Van Buren",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bella Vista",
+      "Centerton",
+      "Fayetteville",
+      "Lowell",
+      "North Little Rock",
+      "Van Buren"
+    ]
+  },
+  "va": {
+    "slug": "va",
+    "name": "Virginia",
+    "abbr": "VA",
+    "totalListings": 30,
+    "explicitCount": 26,
+    "highCount": 3,
+    "mediumCount": 1,
+    "withPhone": 30,
+    "withEmail": 22,
+    "withReviewTags": 28,
+    "withGeneratorReviews": 22,
+    "topCities": [
+      {
+        "city": "Fredericksburg",
+        "count": 3
+      },
+      {
+        "city": "Newport News",
+        "count": 2
+      },
+      {
+        "city": "Richmond",
+        "count": 2
+      },
+      {
+        "city": "Midlothian",
+        "count": 1
+      },
+      {
+        "city": "Hampton",
+        "count": 1
+      },
+      {
+        "city": "Chesterfield",
+        "count": 1
+      },
+      {
+        "city": "Winchester",
+        "count": 1
+      },
+      {
+        "city": "Fairfax",
+        "count": 1
+      },
+      {
+        "city": "Goode",
+        "count": 1
+      },
+      {
+        "city": "Reston",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Aldie",
+      "Centreville",
+      "Chantilly",
+      "Chesterfield",
+      "Fairfax",
+      "Fredericksburg",
+      "Goode",
+      "Halifax",
+      "Hampton",
+      "Midlothian",
+      "Newport News",
+      "North Chesterfield",
+      "Powhatan",
+      "Reston",
+      "Richmond",
+      "Virginia Beach",
+      "Winchester"
+    ]
+  },
+  "wv": {
+    "slug": "wv",
+    "name": "West Virginia",
+    "abbr": "WV",
+    "totalListings": 7,
+    "explicitCount": 5,
+    "highCount": 1,
+    "mediumCount": 1,
+    "withPhone": 7,
+    "withEmail": 2,
+    "withReviewTags": 6,
+    "withGeneratorReviews": 3,
+    "topCities": [
+      {
+        "city": "Morgantown",
+        "count": 1
+      },
+      {
+        "city": "Scott Depot",
+        "count": 1
+      },
+      {
+        "city": "Martinsburg",
+        "count": 1
+      },
+      {
+        "city": "Milton",
+        "count": 1
+      },
+      {
+        "city": "Grafton",
+        "count": 1
+      },
+      {
+        "city": "Charles Town",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Charles Town",
+      "Grafton",
+      "Martinsburg",
+      "Milton",
+      "Morgantown",
+      "Scott Depot"
+    ]
+  },
+  "ok": {
+    "slug": "ok",
+    "name": "Oklahoma",
+    "abbr": "OK",
+    "totalListings": 25,
+    "explicitCount": 17,
+    "highCount": 5,
+    "mediumCount": 3,
+    "withPhone": 25,
+    "withEmail": 15,
+    "withReviewTags": 25,
+    "withGeneratorReviews": 9,
+    "topCities": [
+      {
+        "city": "Tulsa",
+        "count": 5
+      },
+      {
+        "city": "Owasso",
+        "count": 2
+      },
+      {
+        "city": "Broken Arrow",
+        "count": 2
+      },
+      {
+        "city": "Moore",
+        "count": 2
+      },
+      {
+        "city": "Oklahoma City",
+        "count": 2
+      },
+      {
+        "city": "Edmond",
+        "count": 2
+      },
+      {
+        "city": "Bristow",
+        "count": 1
+      },
+      {
+        "city": "Guthrie",
+        "count": 1
+      },
+      {
+        "city": "Yukon",
+        "count": 1
+      },
+      {
+        "city": "Cushing",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bristow",
+      "Broken Arrow",
+      "Cushing",
+      "Edmond",
+      "Guthrie",
+      "Moore",
+      "Oklahoma City",
+      "Owasso",
+      "Tulsa",
+      "Yukon"
+    ]
+  },
+  "mo": {
+    "slug": "mo",
+    "name": "Missouri",
+    "abbr": "MO",
+    "totalListings": 27,
+    "explicitCount": 20,
+    "highCount": 5,
+    "mediumCount": 2,
+    "withPhone": 27,
+    "withEmail": 17,
+    "withReviewTags": 26,
+    "withGeneratorReviews": 19,
+    "topCities": [
+      {
+        "city": "St. Louis",
+        "count": 4
+      },
+      {
+        "city": "St Charles",
+        "count": 3
+      },
+      {
+        "city": "Kansas City",
+        "count": 2
+      },
+      {
+        "city": "Fenton",
+        "count": 1
+      },
+      {
+        "city": "O'Fallon",
+        "count": 1
+      },
+      {
+        "city": "Eureka",
+        "count": 1
+      },
+      {
+        "city": "Columbia",
+        "count": 1
+      },
+      {
+        "city": "North Kansas City",
+        "count": 1
+      },
+      {
+        "city": "Nixa",
+        "count": 1
+      },
+      {
+        "city": "Farmington",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Columbia",
+      "Eureka",
+      "Farmington",
+      "Fenton",
+      "Holden",
+      "Kansas City",
+      "Nixa",
+      "North Kansas City",
+      "O'Fallon",
+      "St Charles",
+      "St. Louis"
+    ]
+  },
+  "tx": {
+    "slug": "tx",
+    "name": "Texas",
+    "abbr": "TX",
+    "totalListings": 127,
+    "explicitCount": 74,
+    "highCount": 40,
+    "mediumCount": 13,
+    "withPhone": 125,
+    "withEmail": 80,
+    "withReviewTags": 122,
+    "withGeneratorReviews": 80,
+    "topCities": [
+      {
+        "city": "Houston",
+        "count": 16
+      },
+      {
+        "city": "Austin",
+        "count": 11
+      },
+      {
+        "city": "Georgetown",
+        "count": 5
+      },
+      {
+        "city": "Katy",
+        "count": 4
+      },
+      {
+        "city": "McKinney",
+        "count": 3
+      },
+      {
+        "city": "Round Rock",
+        "count": 3
+      },
+      {
+        "city": "Conroe",
+        "count": 3
+      },
+      {
+        "city": "Dallas",
+        "count": 2
+      },
+      {
+        "city": "League City",
+        "count": 2
+      },
+      {
+        "city": "Leander",
+        "count": 2
+      }
+    ],
+    "allCities": [
+      "Austin",
+      "Baytown",
+      "Bedford",
+      "Bryan",
+      "Burleson",
+      "Caldwell",
+      "Carrollton",
+      "Conroe",
+      "Corpus Christi",
+      "Corsicana",
+      "Crowley",
+      "Dallas",
+      "Dayton",
+      "DeSoto",
+      "Dickinson",
+      "Fort Worth",
+      "Frisco",
+      "Fulshear",
+      "Georgetown",
+      "Haslet",
+      "Houston",
+      "Katy",
+      "Killeen",
+      "League City",
+      "Leander",
+      "Lytle",
+      "Magnolia",
+      "McDade",
+      "McKinney",
+      "Mission",
+      "Montgomery",
+      "Nacogdoches",
+      "New Waverly",
+      "Pflugerville",
+      "Pinehurst",
+      "Plano",
+      "Porter",
+      "Richardson",
+      "Richmond",
+      "Rogers",
+      "Round Rock",
+      "Royse City",
+      "Spring",
+      "Sugar Land",
+      "Temple"
+    ]
+  },
+  "oh": {
+    "slug": "oh",
+    "name": "Ohio",
+    "abbr": "OH",
+    "totalListings": 17,
+    "explicitCount": 10,
+    "highCount": 6,
+    "mediumCount": 1,
+    "withPhone": 17,
+    "withEmail": 9,
+    "withReviewTags": 16,
+    "withGeneratorReviews": 14,
+    "topCities": [
+      {
+        "city": "Cincinnati",
+        "count": 3
+      },
+      {
+        "city": "Middletown",
+        "count": 2
+      },
+      {
+        "city": "Dublin",
+        "count": 2
+      },
+      {
+        "city": "Delaware",
+        "count": 1
+      },
+      {
+        "city": "Gahanna",
+        "count": 1
+      },
+      {
+        "city": "Columbus",
+        "count": 1
+      },
+      {
+        "city": "Chagrin Falls",
+        "count": 1
+      },
+      {
+        "city": "Lakewood",
+        "count": 1
+      },
+      {
+        "city": "Mt Vernon",
+        "count": 1
+      },
+      {
+        "city": "Dayton",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Chagrin Falls",
+      "Cincinnati",
+      "Columbus",
+      "Dayton",
+      "Delaware",
+      "Dublin",
+      "Gahanna",
+      "Lakewood",
+      "Middletown",
+      "Mt Vernon"
+    ]
+  },
+  "in": {
+    "slug": "in",
+    "name": "Indiana",
+    "abbr": "IN",
+    "totalListings": 19,
+    "explicitCount": 14,
+    "highCount": 3,
+    "mediumCount": 2,
+    "withPhone": 18,
+    "withEmail": 10,
+    "withReviewTags": 18,
+    "withGeneratorReviews": 11,
+    "topCities": [
+      {
+        "city": "Valparaiso",
+        "count": 3
+      },
+      {
+        "city": "Marion",
+        "count": 1
+      },
+      {
+        "city": "Muncie",
+        "count": 1
+      },
+      {
+        "city": "Hobart",
+        "count": 1
+      },
+      {
+        "city": "Martinsville",
+        "count": 1
+      },
+      {
+        "city": "Indianapolis",
+        "count": 1
+      },
+      {
+        "city": "Fishers",
+        "count": 1
+      },
+      {
+        "city": "Chesterton",
+        "count": 1
+      },
+      {
+        "city": "Sellersburg",
+        "count": 1
+      },
+      {
+        "city": "Plainfield",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Carmel",
+      "Chesterton",
+      "Fishers",
+      "Hobart",
+      "Indianapolis",
+      "Lafayette",
+      "Marion",
+      "Martinsville",
+      "Muncie",
+      "Plainfield",
+      "Portage",
+      "Sellersburg",
+      "Valparaiso"
+    ]
+  },
+  "md": {
+    "slug": "md",
+    "name": "Maryland",
+    "abbr": "MD",
+    "totalListings": 21,
+    "explicitCount": 8,
+    "highCount": 10,
+    "mediumCount": 3,
+    "withPhone": 21,
+    "withEmail": 15,
+    "withReviewTags": 19,
+    "withGeneratorReviews": 14,
+    "topCities": [
+      {
+        "city": "Waldorf",
+        "count": 2
+      },
+      {
+        "city": "Bowie",
+        "count": 1
+      },
+      {
+        "city": "Churchville",
+        "count": 1
+      },
+      {
+        "city": "Leonardtown",
+        "count": 1
+      },
+      {
+        "city": "Olney",
+        "count": 1
+      },
+      {
+        "city": "Upper Marlboro",
+        "count": 1
+      },
+      {
+        "city": "Bethesda",
+        "count": 1
+      },
+      {
+        "city": "Reisterstown",
+        "count": 1
+      },
+      {
+        "city": "Timonium",
+        "count": 1
+      },
+      {
+        "city": "Havre De Grace",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bethesda",
+      "Bowie",
+      "Catonsville",
+      "Churchville",
+      "Havre De Grace",
+      "Leonardtown",
+      "Olney",
+      "Potomac",
+      "Reisterstown",
+      "Rockville",
+      "Silver Spring",
+      "Timonium",
+      "Upper Marlboro",
+      "Waldorf"
+    ]
+  },
+  "pa": {
+    "slug": "pa",
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "totalListings": 52,
+    "explicitCount": 31,
+    "highCount": 15,
+    "mediumCount": 6,
+    "withPhone": 51,
+    "withEmail": 31,
+    "withReviewTags": 51,
+    "withGeneratorReviews": 38,
+    "topCities": [
+      {
+        "city": "Coopersburg",
+        "count": 3
+      },
+      {
+        "city": "Philadelphia",
+        "count": 3
+      },
+      {
+        "city": "Masury",
+        "count": 1
+      },
+      {
+        "city": "Peckville",
+        "count": 1
+      },
+      {
+        "city": "Feasterville-Trevose",
+        "count": 1
+      },
+      {
+        "city": "Ambler",
+        "count": 1
+      },
+      {
+        "city": "Emmaus",
+        "count": 1
+      },
+      {
+        "city": "McKees Rocks",
+        "count": 1
+      },
+      {
+        "city": "Reading",
+        "count": 1
+      },
+      {
+        "city": "Lewisburg",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Allentown",
+      "Ambler",
+      "Bernville",
+      "Bethlehem",
+      "Bryn Mawr",
+      "Cochranville",
+      "Coopersburg",
+      "Drexel Hill",
+      "Elysburg",
+      "Emmaus",
+      "Exton",
+      "Feasterville-Trevose",
+      "Glenshaw",
+      "Kingston",
+      "Landenberg",
+      "Lansdale",
+      "Lemont",
+      "Lewisburg",
+      "Masury",
+      "McKees Rocks",
+      "Mechanicsburg",
+      "Melrose Park",
+      "Mt Holly Springs",
+      "Norristown",
+      "Peckville",
+      "Philadelphia",
+      "Phoenixville",
+      "Reading",
+      "Southampton",
+      "Stroudsburg",
+      "Whitehall Township",
+      "Willow Grove"
+    ]
+  },
+  "ny": {
+    "slug": "ny",
+    "name": "New York",
+    "abbr": "NY",
+    "totalListings": 14,
+    "explicitCount": 8,
+    "highCount": 5,
+    "mediumCount": 1,
+    "withPhone": 14,
+    "withEmail": 6,
+    "withReviewTags": 13,
+    "withGeneratorReviews": 8,
+    "topCities": [
+      {
+        "city": "Brooklyn",
+        "count": 5
+      },
+      {
+        "city": "New York",
+        "count": 2
+      },
+      {
+        "city": "Bayside",
+        "count": 1
+      },
+      {
+        "city": "Fresh Meadows",
+        "count": 1
+      },
+      {
+        "city": "Forest Hills",
+        "count": 1
+      },
+      {
+        "city": "Long Island City",
+        "count": 1
+      },
+      {
+        "city": "Far Rockaway",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bayside",
+      "Brooklyn",
+      "Far Rockaway",
+      "Forest Hills",
+      "Fresh Meadows",
+      "Long Island City",
+      "New York"
+    ]
+  },
+  "nj": {
+    "slug": "nj",
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "totalListings": 68,
+    "explicitCount": 44,
+    "highCount": 12,
+    "mediumCount": 12,
+    "withPhone": 68,
+    "withEmail": 36,
+    "withReviewTags": 67,
+    "withGeneratorReviews": 46,
+    "topCities": [
+      {
+        "city": "Cranford",
+        "count": 2
+      },
+      {
+        "city": "Princeton",
+        "count": 2
+      },
+      {
+        "city": "Bergenfield",
+        "count": 2
+      },
+      {
+        "city": "Paramus",
+        "count": 2
+      },
+      {
+        "city": "Jersey City",
+        "count": 2
+      },
+      {
+        "city": "Red Bank",
+        "count": 1
+      },
+      {
+        "city": "Dumont",
+        "count": 1
+      },
+      {
+        "city": "Union",
+        "count": 1
+      },
+      {
+        "city": "Hazlet",
+        "count": 1
+      },
+      {
+        "city": "Bound Brook",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Allentown",
+      "Belleville",
+      "Bergenfield",
+      "Bound Brook",
+      "Branchburg",
+      "Brick Township",
+      "Cedarville",
+      "Chatham Township",
+      "Cherry Hill Township",
+      "Cranford",
+      "Dumont",
+      "Edison",
+      "Englewood",
+      "Fairfield",
+      "Hackettstown",
+      "Hamilton Township",
+      "Hawthorne",
+      "Hazlet",
+      "Hillsborough Township",
+      "Howell Township",
+      "Jackson Township",
+      "Jersey City",
+      "Lebanon",
+      "Linden",
+      "Little Falls Township",
+      "Long Branch",
+      "Mahwah",
+      "Maplewood",
+      "Matawan",
+      "Metuchen",
+      "Milford",
+      "Neptune City",
+      "New Brunswick",
+      "Newark",
+      "North Arlington",
+      "Paramus",
+      "Passaic",
+      "Paterson",
+      "Piscataway",
+      "Point Pleasant",
+      "Princeton",
+      "Prospect Park",
+      "Red Bank",
+      "Scotch Plains",
+      "Somerset",
+      "Tinton Falls",
+      "Toms River",
+      "Union",
+      "Upper Saddle River",
+      "Wantage",
+      "Wayne",
+      "West Orange"
+    ]
+  },
+  "il": {
+    "slug": "il",
+    "name": "Illinois",
+    "abbr": "IL",
+    "totalListings": 64,
+    "explicitCount": 33,
+    "highCount": 26,
+    "mediumCount": 5,
+    "withPhone": 64,
+    "withEmail": 41,
+    "withReviewTags": 64,
+    "withGeneratorReviews": 45,
+    "topCities": [
+      {
+        "city": "Chicago",
+        "count": 12
+      },
+      {
+        "city": "Buffalo Grove",
+        "count": 3
+      },
+      {
+        "city": "Skokie",
+        "count": 2
+      },
+      {
+        "city": "Schaumburg",
+        "count": 2
+      },
+      {
+        "city": "Huntley",
+        "count": 2
+      },
+      {
+        "city": "Joliet",
+        "count": 2
+      },
+      {
+        "city": "Arlington Heights",
+        "count": 2
+      },
+      {
+        "city": "Berkeley",
+        "count": 1
+      },
+      {
+        "city": "Plainfield",
+        "count": 1
+      },
+      {
+        "city": "Washington",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Arlington Heights",
+      "Bartlett",
+      "Berkeley",
+      "Bloomington",
+      "Buffalo Grove",
+      "Burbank",
+      "Chicago",
+      "Cicero",
+      "Forest Park",
+      "Franklin Grove",
+      "Glenview",
+      "Huntley",
+      "Joliet",
+      "Lake Barrington",
+      "Long Grove",
+      "Mt Prospect",
+      "Oak Brook",
+      "Oak Forest",
+      "Orland Park",
+      "Ottawa",
+      "Plainfield",
+      "Round Lake Beach",
+      "Schaumburg",
+      "Skokie",
+      "St. Charles",
+      "Warrenville",
+      "Washington",
+      "West Chicago",
+      "Westmont",
+      "Wheeling"
+    ]
+  },
+  "mi": {
+    "slug": "mi",
+    "name": "Michigan",
+    "abbr": "MI",
+    "totalListings": 54,
+    "explicitCount": 33,
+    "highCount": 14,
+    "mediumCount": 7,
+    "withPhone": 54,
+    "withEmail": 32,
+    "withReviewTags": 51,
+    "withGeneratorReviews": 33,
+    "topCities": [
+      {
+        "city": "Detroit",
+        "count": 4
+      },
+      {
+        "city": "Livonia",
+        "count": 3
+      },
+      {
+        "city": "Waterford Township",
+        "count": 2
+      },
+      {
+        "city": "Troy",
+        "count": 2
+      },
+      {
+        "city": "Grand Rapids",
+        "count": 2
+      },
+      {
+        "city": "Lansing",
+        "count": 2
+      },
+      {
+        "city": "Bloomfield Hills",
+        "count": 2
+      },
+      {
+        "city": "Romeo",
+        "count": 1
+      },
+      {
+        "city": "Hartland",
+        "count": 1
+      },
+      {
+        "city": "St Clair Shores",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Beverly Hills",
+      "Bloomfield Hills",
+      "Brighton",
+      "Clinton Township",
+      "Dearborn Heights",
+      "Detroit",
+      "Farmington",
+      "Flint",
+      "Grand Rapids",
+      "Hartland",
+      "Holly",
+      "Kalamazoo",
+      "Lake Orion",
+      "Lansing",
+      "Livonia",
+      "Lowell",
+      "Madison Heights",
+      "New Hudson",
+      "Novi",
+      "Rochester",
+      "Rochester Hills",
+      "Romeo",
+      "Shelby Township",
+      "Southfield",
+      "St Clair Shores",
+      "Sterling Heights",
+      "Traverse City",
+      "Troy",
+      "Vicksburg",
+      "Waterford Township",
+      "Westland",
+      "White Cloud"
+    ]
+  },
+  "wi": {
+    "slug": "wi",
+    "name": "Wisconsin",
+    "abbr": "WI",
+    "totalListings": 23,
+    "explicitCount": 18,
+    "highCount": 3,
+    "mediumCount": 2,
+    "withPhone": 23,
+    "withEmail": 17,
+    "withReviewTags": 22,
+    "withGeneratorReviews": 16,
+    "topCities": [
+      {
+        "city": "Madison",
+        "count": 4
+      },
+      {
+        "city": "Milwaukee",
+        "count": 2
+      },
+      {
+        "city": "Appleton",
+        "count": 2
+      },
+      {
+        "city": "Wauwatosa",
+        "count": 1
+      },
+      {
+        "city": "Pewaukee",
+        "count": 1
+      },
+      {
+        "city": "Brookfield",
+        "count": 1
+      },
+      {
+        "city": "De Pere",
+        "count": 1
+      },
+      {
+        "city": "Cedarburg",
+        "count": 1
+      },
+      {
+        "city": "Verona",
+        "count": 1
+      },
+      {
+        "city": "Belgium",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Appleton",
+      "Arlington",
+      "Bay City",
+      "Belgium",
+      "Brookfield",
+      "Cedarburg",
+      "De Pere",
+      "Eau Claire",
+      "Green Bay",
+      "Madison",
+      "Milwaukee",
+      "Pewaukee",
+      "Stoughton",
+      "Verona",
+      "Wauwatosa"
+    ]
+  },
+  "mn": {
+    "slug": "mn",
+    "name": "Minnesota",
+    "abbr": "MN",
+    "totalListings": 15,
+    "explicitCount": 10,
+    "highCount": 5,
+    "mediumCount": 0,
+    "withPhone": 15,
+    "withEmail": 10,
+    "withReviewTags": 14,
+    "withGeneratorReviews": 11,
+    "topCities": [
+      {
+        "city": "Rochester",
+        "count": 2
+      },
+      {
+        "city": "Minneapolis",
+        "count": 2
+      },
+      {
+        "city": "Forest Lake",
+        "count": 1
+      },
+      {
+        "city": "Hamel",
+        "count": 1
+      },
+      {
+        "city": "Lakeville",
+        "count": 1
+      },
+      {
+        "city": "Roseville",
+        "count": 1
+      },
+      {
+        "city": "Coon Rapids",
+        "count": 1
+      },
+      {
+        "city": "St Paul",
+        "count": 1
+      },
+      {
+        "city": "St Paul Park",
+        "count": 1
+      },
+      {
+        "city": "Spring Lake Park",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Coon Rapids",
+      "Forest Lake",
+      "Hamel",
+      "Hibbing",
+      "Lakeville",
+      "Minneapolis",
+      "Rochester",
+      "Roseville",
+      "Spring Lake Park",
+      "St Paul",
+      "St Paul Park",
+      "White Bear Lake"
+    ]
+  },
+  "ia": {
+    "slug": "ia",
+    "name": "Iowa",
+    "abbr": "IA",
+    "totalListings": 18,
+    "explicitCount": 12,
+    "highCount": 5,
+    "mediumCount": 1,
+    "withPhone": 16,
+    "withEmail": 12,
+    "withReviewTags": 16,
+    "withGeneratorReviews": 7,
+    "topCities": [
+      {
+        "city": "Cedar Rapids",
+        "count": 4
+      },
+      {
+        "city": "Clive",
+        "count": 2
+      },
+      {
+        "city": "Des Moines",
+        "count": 1
+      },
+      {
+        "city": "Cedar Falls",
+        "count": 1
+      },
+      {
+        "city": "Council Bluffs",
+        "count": 1
+      },
+      {
+        "city": "West Burlington",
+        "count": 1
+      },
+      {
+        "city": "Ankeny",
+        "count": 1
+      },
+      {
+        "city": "Davenport",
+        "count": 1
+      },
+      {
+        "city": "Audubon",
+        "count": 1
+      },
+      {
+        "city": "Spencer",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Ankeny",
+      "Audubon",
+      "Cedar Falls",
+      "Cedar Rapids",
+      "Clive",
+      "Council Bluffs",
+      "Davenport",
+      "Des Moines",
+      "North Liberty",
+      "Norwalk",
+      "Spencer",
+      "West Burlington"
+    ]
+  },
+  "ca": {
+    "slug": "ca",
+    "name": "California",
+    "abbr": "CA",
+    "totalListings": 166,
+    "explicitCount": 103,
+    "highCount": 53,
+    "mediumCount": 10,
+    "withPhone": 163,
+    "withEmail": 111,
+    "withReviewTags": 153,
+    "withGeneratorReviews": 125,
+    "topCities": [
+      {
+        "city": "Murrieta",
+        "count": 8
+      },
+      {
+        "city": "San Jose",
+        "count": 7
+      },
+      {
+        "city": "Temecula",
+        "count": 7
+      },
+      {
+        "city": "Los Angeles",
+        "count": 6
+      },
+      {
+        "city": "Palm Desert",
+        "count": 5
+      },
+      {
+        "city": "Irvine",
+        "count": 5
+      },
+      {
+        "city": "Menifee",
+        "count": 4
+      },
+      {
+        "city": "San Diego",
+        "count": 3
+      },
+      {
+        "city": "Campbell",
+        "count": 3
+      },
+      {
+        "city": "Los Gatos",
+        "count": 3
+      }
+    ],
+    "allCities": [
+      "Agoura Hills",
+      "Aptos",
+      "Campbell",
+      "Canyon Country",
+      "Canyon Lake",
+      "Carlsbad",
+      "Cathedral City",
+      "Chatsworth",
+      "Clovis",
+      "Concord",
+      "Costa Mesa",
+      "Desert Hot Springs",
+      "East Palo Alto",
+      "Felton",
+      "Fresno",
+      "Gilroy",
+      "Hawthorne",
+      "Hayward",
+      "Huntington Beach",
+      "Indio",
+      "Irvine",
+      "La Quinta",
+      "Los Angeles",
+      "Los Gatos",
+      "Menifee",
+      "Moreno Valley",
+      "Morgan Hill",
+      "Murrieta",
+      "Nuevo",
+      "Oakland",
+      "Oceanside",
+      "Orange",
+      "Pacific Grove",
+      "Palm Desert",
+      "Perris",
+      "Pleasant Hill",
+      "Sacramento",
+      "San Diego",
+      "San Francisco",
+      "San Jose",
+      "San Luis Obispo",
+      "San Marcos",
+      "Santa Clara",
+      "Santa Clarita",
+      "Santa Cruz",
+      "Santa Monica",
+      "Saratoga",
+      "Scotts Valley",
+      "Seaside",
+      "Simi Valley",
+      "Soquel",
+      "Sun Valley",
+      "Tarzana",
+      "Temecula",
+      "Thousand Palms",
+      "Union City",
+      "Van Nuys",
+      "Ventura",
+      "Visalia",
+      "Watsonville",
+      "West Covina",
+      "Winchester",
+      "Yucaipa"
+    ]
+  },
+  "az": {
+    "slug": "az",
+    "name": "Arizona",
+    "abbr": "AZ",
+    "totalListings": 66,
+    "explicitCount": 45,
+    "highCount": 14,
+    "mediumCount": 7,
+    "withPhone": 66,
+    "withEmail": 44,
+    "withReviewTags": 62,
+    "withGeneratorReviews": 47,
+    "topCities": [
+      {
+        "city": "Phoenix",
+        "count": 8
+      },
+      {
+        "city": "Scottsdale",
+        "count": 7
+      },
+      {
+        "city": "Mesa",
+        "count": 6
+      },
+      {
+        "city": "Tempe",
+        "count": 6
+      },
+      {
+        "city": "Chandler",
+        "count": 6
+      },
+      {
+        "city": "Tucson",
+        "count": 3
+      },
+      {
+        "city": "Flagstaff",
+        "count": 2
+      },
+      {
+        "city": "Surprise",
+        "count": 2
+      },
+      {
+        "city": "Queen Creek",
+        "count": 1
+      },
+      {
+        "city": "Litchfield Park",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Cave Creek",
+      "Chandler",
+      "Flagstaff",
+      "Goodyear",
+      "Litchfield Park",
+      "Mesa",
+      "Peoria",
+      "Phoenix",
+      "Queen Creek",
+      "Scottsdale",
+      "Snowflake",
+      "Surprise",
+      "Tempe",
+      "Tucson",
+      "Yuma"
+    ]
+  },
+  "co": {
+    "slug": "co",
+    "name": "Colorado",
+    "abbr": "CO",
+    "totalListings": 44,
+    "explicitCount": 28,
+    "highCount": 8,
+    "mediumCount": 8,
+    "withPhone": 44,
+    "withEmail": 27,
+    "withReviewTags": 42,
+    "withGeneratorReviews": 35,
+    "topCities": [
+      {
+        "city": "Aurora",
+        "count": 5
+      },
+      {
+        "city": "Denver",
+        "count": 4
+      },
+      {
+        "city": "Lakewood",
+        "count": 3
+      },
+      {
+        "city": "Loveland",
+        "count": 2
+      },
+      {
+        "city": "Centennial",
+        "count": 2
+      },
+      {
+        "city": "Parker",
+        "count": 2
+      },
+      {
+        "city": "Fort Collins",
+        "count": 2
+      },
+      {
+        "city": "Littleton",
+        "count": 2
+      },
+      {
+        "city": "Evergreen",
+        "count": 2
+      },
+      {
+        "city": "Boulder",
+        "count": 2
+      }
+    ],
+    "allCities": [
+      "Aurora",
+      "Boulder",
+      "Centennial",
+      "Colorado Springs",
+      "Denver",
+      "Englewood",
+      "Evergreen",
+      "Fort Collins",
+      "Fountain",
+      "Golden",
+      "Lafayette",
+      "Lakewood",
+      "Littleton",
+      "Loveland",
+      "Parker",
+      "Thornton",
+      "Westminster",
+      "Wheat Ridge"
+    ]
+  },
+  "nm": {
+    "slug": "nm",
+    "name": "New Mexico",
+    "abbr": "NM",
+    "totalListings": 10,
+    "explicitCount": 7,
+    "highCount": 3,
+    "mediumCount": 0,
+    "withPhone": 10,
+    "withEmail": 4,
+    "withReviewTags": 10,
+    "withGeneratorReviews": 4,
+    "topCities": [
+      {
+        "city": "Albuquerque",
+        "count": 3
+      },
+      {
+        "city": "Silver City",
+        "count": 1
+      },
+      {
+        "city": "Santa Fe",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Albuquerque",
+      "Santa Fe",
+      "Silver City"
+    ]
+  },
+  "nv": {
+    "slug": "nv",
+    "name": "Nevada",
+    "abbr": "NV",
+    "totalListings": 40,
+    "explicitCount": 26,
+    "highCount": 14,
+    "mediumCount": 0,
+    "withPhone": 39,
+    "withEmail": 25,
+    "withReviewTags": 39,
+    "withGeneratorReviews": 29,
+    "topCities": [
+      {
+        "city": "Las Vegas",
+        "count": 15
+      },
+      {
+        "city": "Sparks",
+        "count": 4
+      },
+      {
+        "city": "North Las Vegas",
+        "count": 2
+      },
+      {
+        "city": "Henderson",
+        "count": 2
+      },
+      {
+        "city": "Reno",
+        "count": 2
+      },
+      {
+        "city": "Pahrump",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Henderson",
+      "Las Vegas",
+      "North Las Vegas",
+      "Pahrump",
+      "Reno",
+      "Sparks"
+    ]
+  },
+  "ut": {
+    "slug": "ut",
+    "name": "Utah",
+    "abbr": "UT",
+    "totalListings": 58,
+    "explicitCount": 37,
+    "highCount": 13,
+    "mediumCount": 8,
+    "withPhone": 58,
+    "withEmail": 33,
+    "withReviewTags": 56,
+    "withGeneratorReviews": 38,
+    "topCities": [
+      {
+        "city": "Sandy",
+        "count": 6
+      },
+      {
+        "city": "Salt Lake City",
+        "count": 3
+      },
+      {
+        "city": "Ogden",
+        "count": 2
+      },
+      {
+        "city": "Murray",
+        "count": 2
+      },
+      {
+        "city": "Pleasant Grove",
+        "count": 2
+      },
+      {
+        "city": "Bountiful",
+        "count": 2
+      },
+      {
+        "city": "West Valley City",
+        "count": 2
+      },
+      {
+        "city": "Saratoga Springs",
+        "count": 2
+      },
+      {
+        "city": "Midvale",
+        "count": 1
+      },
+      {
+        "city": "West Jordan",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "American Fork",
+      "Bluffdale",
+      "Bountiful",
+      "Centerville",
+      "Heber City",
+      "Highland",
+      "Holladay",
+      "Hurricane",
+      "Layton",
+      "Lehi",
+      "Midvale",
+      "Murray",
+      "Ogden",
+      "Orem",
+      "Payson",
+      "Pleasant Grove",
+      "Provo",
+      "Salt Lake City",
+      "Sandy",
+      "Saratoga Springs",
+      "St. George",
+      "Tooele",
+      "Washington",
+      "West Jordan",
+      "West Valley City"
+    ]
+  },
+  "wa": {
+    "slug": "wa",
+    "name": "Washington",
+    "abbr": "WA",
+    "totalListings": 2,
+    "explicitCount": 2,
+    "highCount": 0,
+    "mediumCount": 0,
+    "withPhone": 2,
+    "withEmail": 2,
+    "withReviewTags": 2,
+    "withGeneratorReviews": 2,
+    "topCities": [
+      {
+        "city": "Washington",
+        "count": 2
+      }
+    ],
+    "allCities": [
+      "Washington"
+    ]
+  },
+  "or": {
+    "slug": "or",
+    "name": "Oregon",
+    "abbr": "OR",
+    "totalListings": 16,
+    "explicitCount": 11,
+    "highCount": 3,
+    "mediumCount": 2,
+    "withPhone": 16,
+    "withEmail": 12,
+    "withReviewTags": 16,
+    "withGeneratorReviews": 10,
+    "topCities": [
+      {
+        "city": "Bend",
+        "count": 3
+      },
+      {
+        "city": "Portland",
+        "count": 2
+      },
+      {
+        "city": "Hillsboro",
+        "count": 1
+      },
+      {
+        "city": "Eugene",
+        "count": 1
+      },
+      {
+        "city": "Albany",
+        "count": 1
+      },
+      {
+        "city": "Clackamas",
+        "count": 1
+      },
+      {
+        "city": "Woodburn",
+        "count": 1
+      },
+      {
+        "city": "Redmond",
+        "count": 1
+      },
+      {
+        "city": "Beaverton",
+        "count": 1
+      },
+      {
+        "city": "Salem",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Albany",
+      "Beaverton",
+      "Bend",
+      "Clackamas",
+      "Eugene",
+      "Hillsboro",
+      "Keizer",
+      "Portland",
+      "Redmond",
+      "Salem",
+      "Woodburn"
+    ]
+  },
+  "ak": {
+    "slug": "ak",
+    "name": "Alaska",
+    "abbr": "AK",
+    "totalListings": 2,
+    "explicitCount": 0,
+    "highCount": 2,
+    "mediumCount": 0,
+    "withPhone": 2,
+    "withEmail": 0,
+    "withReviewTags": 2,
+    "withGeneratorReviews": 0,
+    "topCities": [
+      {
+        "city": "Anchorage",
+        "count": 1
+      },
+      {
+        "city": "Juneau",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Anchorage",
+      "Juneau"
+    ]
+  },
+  "hi": {
+    "slug": "hi",
+    "name": "Hawaii",
+    "abbr": "HI",
+    "totalListings": 7,
+    "explicitCount": 4,
+    "highCount": 1,
+    "mediumCount": 2,
+    "withPhone": 6,
+    "withEmail": 4,
+    "withReviewTags": 7,
+    "withGeneratorReviews": 2,
+    "topCities": [
+      {
+        "city": "Honolulu",
+        "count": 2
+      },
+      {
+        "city": "Kailua-Kona",
+        "count": 1
+      },
+      {
+        "city": "Kihei",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Honolulu",
+      "Kailua-Kona",
+      "Kihei"
+    ]
+  },
+  "id": {
+    "slug": "id",
+    "name": "Idaho",
+    "abbr": "ID",
+    "totalListings": 26,
+    "explicitCount": 16,
+    "highCount": 9,
+    "mediumCount": 1,
+    "withPhone": 26,
+    "withEmail": 18,
+    "withReviewTags": 25,
+    "withGeneratorReviews": 9,
+    "topCities": [
+      {
+        "city": "Hayden",
+        "count": 5
+      },
+      {
+        "city": "Boise",
+        "count": 3
+      },
+      {
+        "city": "Coeur d'Alene",
+        "count": 3
+      },
+      {
+        "city": "Nampa",
+        "count": 2
+      },
+      {
+        "city": "Moscow",
+        "count": 1
+      },
+      {
+        "city": "Dalton Gardens",
+        "count": 1
+      },
+      {
+        "city": "Post Falls",
+        "count": 1
+      },
+      {
+        "city": "Pocatello",
+        "count": 1
+      },
+      {
+        "city": "Kuna",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Boise",
+      "Coeur d'Alene",
+      "Dalton Gardens",
+      "Hayden",
+      "Kuna",
+      "Moscow",
+      "Nampa",
+      "Pocatello",
+      "Post Falls"
+    ]
+  },
+  "mt": {
+    "slug": "mt",
+    "name": "Montana",
+    "abbr": "MT",
+    "totalListings": 5,
+    "explicitCount": 3,
+    "highCount": 2,
+    "mediumCount": 0,
+    "withPhone": 5,
+    "withEmail": 4,
+    "withReviewTags": 5,
+    "withGeneratorReviews": 0,
+    "topCities": [
+      {
+        "city": "Missoula",
+        "count": 1
+      },
+      {
+        "city": "Bozeman",
+        "count": 1
+      },
+      {
+        "city": "Black Eagle",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Black Eagle",
+      "Bozeman",
+      "Missoula"
+    ]
+  },
+  "wy": {
+    "slug": "wy",
+    "name": "Wyoming",
+    "abbr": "WY",
+    "totalListings": 2,
+    "explicitCount": 2,
+    "highCount": 0,
+    "mediumCount": 0,
+    "withPhone": 2,
+    "withEmail": 2,
+    "withReviewTags": 1,
+    "withGeneratorReviews": 0,
+    "topCities": [
+      {
+        "city": "Cheyenne",
+        "count": 1
+      },
+      {
+        "city": "Sheridan",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Cheyenne",
+      "Sheridan"
+    ]
+  },
+  "nd": {
+    "slug": "nd",
+    "name": "North Dakota",
+    "abbr": "ND",
+    "totalListings": 3,
+    "explicitCount": 3,
+    "highCount": 0,
+    "mediumCount": 0,
+    "withPhone": 3,
+    "withEmail": 3,
+    "withReviewTags": 3,
+    "withGeneratorReviews": 0,
+    "topCities": [
+      {
+        "city": "Fargo",
+        "count": 1
+      },
+      {
+        "city": "Bismarck",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bismarck",
+      "Fargo"
+    ]
+  },
+  "sd": {
+    "slug": "sd",
+    "name": "South Dakota",
+    "abbr": "SD",
+    "totalListings": 3,
+    "explicitCount": 2,
+    "highCount": 0,
+    "mediumCount": 1,
+    "withPhone": 3,
+    "withEmail": 3,
+    "withReviewTags": 2,
+    "withGeneratorReviews": 0,
+    "topCities": [
+      {
+        "city": "Watertown",
+        "count": 1
+      },
+      {
+        "city": "Mitchell",
+        "count": 1
+      },
+      {
+        "city": "Brandon",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Brandon",
+      "Mitchell",
+      "Watertown"
+    ]
+  },
+  "ne": {
+    "slug": "ne",
+    "name": "Nebraska",
+    "abbr": "NE",
+    "totalListings": 10,
+    "explicitCount": 9,
+    "highCount": 0,
+    "mediumCount": 1,
+    "withPhone": 10,
+    "withEmail": 7,
+    "withReviewTags": 9,
+    "withGeneratorReviews": 5,
+    "topCities": [
+      {
+        "city": "Omaha",
+        "count": 4
+      },
+      {
+        "city": "Lincoln",
+        "count": 1
+      },
+      {
+        "city": "Bennington",
+        "count": 1
+      },
+      {
+        "city": "Martell",
+        "count": 1
+      },
+      {
+        "city": "Valley",
+        "count": 1
+      },
+      {
+        "city": "Fort Calhoun",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bennington",
+      "Fort Calhoun",
+      "Lincoln",
+      "Martell",
+      "Omaha",
+      "Valley"
+    ]
+  },
+  "ks": {
+    "slug": "ks",
+    "name": "Kansas",
+    "abbr": "KS",
+    "totalListings": 11,
+    "explicitCount": 5,
+    "highCount": 5,
+    "mediumCount": 1,
+    "withPhone": 11,
+    "withEmail": 5,
+    "withReviewTags": 11,
+    "withGeneratorReviews": 8,
+    "topCities": [
+      {
+        "city": "Overland Park",
+        "count": 2
+      },
+      {
+        "city": "Lenexa",
+        "count": 1
+      },
+      {
+        "city": "Mission",
+        "count": 1
+      },
+      {
+        "city": "Hutchinson",
+        "count": 1
+      },
+      {
+        "city": "Olathe",
+        "count": 1
+      },
+      {
+        "city": "Leavenworth",
+        "count": 1
+      },
+      {
+        "city": "Benton",
+        "count": 1
+      },
+      {
+        "city": "Lawrence",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Benton",
+      "Hutchinson",
+      "Lawrence",
+      "Leavenworth",
+      "Lenexa",
+      "Mission",
+      "Olathe",
+      "Overland Park"
+    ]
+  },
+  "ct": {
+    "slug": "ct",
+    "name": "Connecticut",
+    "abbr": "CT",
+    "totalListings": 26,
+    "explicitCount": 15,
+    "highCount": 11,
+    "mediumCount": 0,
+    "withPhone": 26,
+    "withEmail": 22,
+    "withReviewTags": 21,
+    "withGeneratorReviews": 11,
+    "topCities": [
+      {
+        "city": "Guilford",
+        "count": 1
+      },
+      {
+        "city": "Fairfield",
+        "count": 1
+      },
+      {
+        "city": "Willington",
+        "count": 1
+      },
+      {
+        "city": "West Haven",
+        "count": 1
+      },
+      {
+        "city": "Meriden",
+        "count": 1
+      },
+      {
+        "city": "Southington",
+        "count": 1
+      },
+      {
+        "city": "Tolland",
+        "count": 1
+      },
+      {
+        "city": "Stratford",
+        "count": 1
+      },
+      {
+        "city": "Vernon",
+        "count": 1
+      },
+      {
+        "city": "Monroe",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Colchester",
+      "Danbury",
+      "Ellington",
+      "Enfield",
+      "Fairfield",
+      "Guilford",
+      "Meriden",
+      "Middletown",
+      "Monroe",
+      "New Britain",
+      "Newington",
+      "Plainville",
+      "Southington",
+      "Stratford",
+      "Tolland",
+      "Vernon",
+      "Waterbury",
+      "West Haven",
+      "Willington"
+    ]
+  },
+  "ma": {
+    "slug": "ma",
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "totalListings": 32,
+    "explicitCount": 23,
+    "highCount": 6,
+    "mediumCount": 3,
+    "withPhone": 32,
+    "withEmail": 19,
+    "withReviewTags": 31,
+    "withGeneratorReviews": 22,
+    "topCities": [
+      {
+        "city": "Norwood",
+        "count": 2
+      },
+      {
+        "city": "Weymouth",
+        "count": 2
+      },
+      {
+        "city": "Marshfield",
+        "count": 2
+      },
+      {
+        "city": "Uxbridge",
+        "count": 2
+      },
+      {
+        "city": "Norwell",
+        "count": 1
+      },
+      {
+        "city": "Lynn",
+        "count": 1
+      },
+      {
+        "city": "Brockton",
+        "count": 1
+      },
+      {
+        "city": "Medfield",
+        "count": 1
+      },
+      {
+        "city": "Holyoke",
+        "count": 1
+      },
+      {
+        "city": "West Springfield",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Boylston",
+      "Brockton",
+      "Canton",
+      "Hatfield",
+      "Haverhill",
+      "Holbrook",
+      "Holyoke",
+      "Lynn",
+      "Mansfield",
+      "Marshfield",
+      "Medfield",
+      "Milford",
+      "Northborough",
+      "Norwell",
+      "Norwood",
+      "Springfield",
+      "Uxbridge",
+      "West Springfield",
+      "Weymouth",
+      "Whitman",
+      "Worcester"
+    ]
+  },
+  "me": {
+    "slug": "me",
+    "name": "Maine",
+    "abbr": "ME",
+    "totalListings": 17,
+    "explicitCount": 10,
+    "highCount": 5,
+    "mediumCount": 2,
+    "withPhone": 17,
+    "withEmail": 11,
+    "withReviewTags": 14,
+    "withGeneratorReviews": 8,
+    "topCities": [
+      {
+        "city": "Brunswick",
+        "count": 1
+      },
+      {
+        "city": "Searsport",
+        "count": 1
+      },
+      {
+        "city": "Biddeford",
+        "count": 1
+      },
+      {
+        "city": "Westbrook",
+        "count": 1
+      },
+      {
+        "city": "West Gardiner",
+        "count": 1
+      },
+      {
+        "city": "Arundel",
+        "count": 1
+      },
+      {
+        "city": "Waterville",
+        "count": 1
+      },
+      {
+        "city": "Madison",
+        "count": 1
+      },
+      {
+        "city": "Stow",
+        "count": 1
+      },
+      {
+        "city": "Skowhegan",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Arundel",
+      "Bangor",
+      "Biddeford",
+      "Brunswick",
+      "Gardiner",
+      "Madison",
+      "Norway",
+      "Searsport",
+      "Skowhegan",
+      "Stow",
+      "Waterville",
+      "West Gardiner",
+      "Westbrook"
+    ]
+  },
+  "nh": {
+    "slug": "nh",
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "totalListings": 19,
+    "explicitCount": 14,
+    "highCount": 2,
+    "mediumCount": 3,
+    "withPhone": 19,
+    "withEmail": 12,
+    "withReviewTags": 16,
+    "withGeneratorReviews": 11,
+    "topCities": [
+      {
+        "city": "Hooksett",
+        "count": 2
+      },
+      {
+        "city": "Nashua",
+        "count": 2
+      },
+      {
+        "city": "Windham",
+        "count": 1
+      },
+      {
+        "city": "Londonderry",
+        "count": 1
+      },
+      {
+        "city": "Salem",
+        "count": 1
+      },
+      {
+        "city": "Bedford",
+        "count": 1
+      },
+      {
+        "city": "Kingston",
+        "count": 1
+      },
+      {
+        "city": "Pelham",
+        "count": 1
+      },
+      {
+        "city": "Dover",
+        "count": 1
+      },
+      {
+        "city": "Manchester",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bedford",
+      "Dover",
+      "Hooksett",
+      "Kingston",
+      "Londonderry",
+      "Manchester",
+      "Nashua",
+      "Pelham",
+      "Salem",
+      "Windham"
+    ]
+  },
+  "vt": {
+    "slug": "vt",
+    "name": "Vermont",
+    "abbr": "VT",
+    "totalListings": 3,
+    "explicitCount": 0,
+    "highCount": 2,
+    "mediumCount": 1,
+    "withPhone": 3,
+    "withEmail": 2,
+    "withReviewTags": 2,
+    "withGeneratorReviews": 2,
+    "topCities": [
+      {
+        "city": "White River Junction",
+        "count": 1
+      },
+      {
+        "city": "Bristol",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bristol",
+      "White River Junction"
+    ]
+  },
+  "ri": {
+    "slug": "ri",
+    "name": "Rhode Island",
+    "abbr": "RI",
+    "totalListings": 3,
+    "explicitCount": 2,
+    "highCount": 1,
+    "mediumCount": 0,
+    "withPhone": 3,
+    "withEmail": 2,
+    "withReviewTags": 3,
+    "withGeneratorReviews": 2,
+    "topCities": [
+      {
+        "city": "North Providence",
+        "count": 1
+      },
+      {
+        "city": "Providence",
+        "count": 1
+      },
+      {
+        "city": "Bristol",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bristol",
+      "North Providence",
+      "Providence"
+    ]
+  },
+  "de": {
+    "slug": "de",
+    "name": "Delaware",
+    "abbr": "DE",
+    "totalListings": 8,
+    "explicitCount": 4,
+    "highCount": 3,
+    "mediumCount": 1,
+    "withPhone": 8,
+    "withEmail": 5,
+    "withReviewTags": 8,
+    "withGeneratorReviews": 7,
+    "topCities": [
+      {
+        "city": "Dagsboro",
+        "count": 1
+      },
+      {
+        "city": "Bear",
+        "count": 1
+      },
+      {
+        "city": "Clayton",
+        "count": 1
+      }
+    ],
+    "allCities": [
+      "Bear",
+      "Clayton",
+      "Dagsboro"
+    ]
+  }
+}

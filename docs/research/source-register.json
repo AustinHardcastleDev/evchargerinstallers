@@ -1,0 +1,97 @@
+[
+  {
+    "id": "afdc-home-charging",
+    "title": "Charging Electric Vehicles at Home",
+    "publisher": "U.S. Department of Energy, Alternative Fuels Data Center",
+    "url": "https://afdc.energy.gov/fuels/electricity-charging-home",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "equipment",
+      "capacity",
+      "permits",
+      "costs"
+    ],
+    "refreshCadence": "annual"
+  },
+  {
+    "id": "nec-625",
+    "title": "NEC Article 625 Electric Vehicle Power Transfer System",
+    "publisher": "NFPA / NEC (local adoption)",
+    "url": "https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "codes",
+      "continuous-load"
+    ],
+    "refreshCadence": "with code cycle"
+  },
+  {
+    "id": "sae-j3400",
+    "title": "SAE J3400 connector standard (NACS-derived)",
+    "publisher": "SAE International",
+    "url": "https://www.sae.org/",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "connectors"
+    ],
+    "refreshCadence": "annual"
+  },
+  {
+    "id": "evitp",
+    "title": "Electric Vehicle Infrastructure Training Program",
+    "publisher": "EVITP",
+    "url": "https://evitp.org/",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "credentials",
+      "choosing-installer"
+    ],
+    "refreshCadence": "annual"
+  },
+  {
+    "id": "census-acs-housing",
+    "title": "ACS housing tenure and units (B25003/B25024)",
+    "publisher": "U.S. Census Bureau",
+    "url": "https://www.census.gov/programs-surveys/acs",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "housing",
+      "state-table"
+    ],
+    "refreshCadence": "annual"
+  },
+  {
+    "id": "eia-residential-price",
+    "title": "Electricity retail sales residential price by state",
+    "publisher": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/electricity/data.php",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "electricity-rates",
+      "state-table"
+    ],
+    "refreshCadence": "annual"
+  },
+  {
+    "id": "irs-30c",
+    "title": "Alternative Fuel Vehicle Refueling Property Credit (30C)",
+    "publisher": "IRS",
+    "url": "https://www.irs.gov/",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "incentives"
+    ],
+    "refreshCadence": "before any credit claim"
+  },
+  {
+    "id": "dsire",
+    "title": "DSIRE incentive database",
+    "publisher": "NC Clean Energy Technology Center",
+    "url": "https://www.dsireusa.org/",
+    "retrievedAt": "2026-08-11",
+    "appliesTo": [
+      "incentives"
+    ],
+    "refreshCadence": "per publish"
+  }
+]

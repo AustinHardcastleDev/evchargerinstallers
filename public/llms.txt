@@ -1,0 +1,55 @@
+# GeneratorInstallerList.com
+
+> GeneratorInstallerList is a buyer-first directory of standby generator installers across 50 US states. We filter the noise across electricians, HVAC shops, and generator companies so buyers can find someone who has actually installed a whole-home generator before, for any brand. Listings are sorted by website signal: dedicated generator page, repeated mentions, or at least one clear mention worth a first call. Independent. Not a broker. Not an endorsement.
+
+## Coverage
+
+- Full interactive directory for all 50 states at /installers/{state-slug}.
+- Unique state market notes cover heating-fuel mix (ACS 2024), 2024 outage duration (EIA), NEC edition notes, and licensing hooks from internal research.
+- ZIP near-me search, metro pages, brand tag pages, and installer profiles are live nationally.
+- Installer profile copy was generated with Gemini 3.6 Flash from website signal and generator-filtered reviews.
+
+## Primary entry points
+
+- [Home](https://www.generatorinstallerlist.com/): national overview and method
+- [Installers by state](https://www.generatorinstallerlist.com/installers): 50-state index
+- [Generator installation near me](https://www.generatorinstallerlist.com/installers/near-me): ZIP search against listing coordinates
+- [Buyer guides](https://www.generatorinstallerlist.com/guides): cost, sizing, process, fuel, permits, hiring
+- [Financing](https://www.generatorinstallerlist.com/financing): how standby projects are often financed; deferred-interest trap guidance
+- [About](https://www.generatorinstallerlist.com/about): how the research works
+- [For installers](https://www.generatorinstallerlist.com/for-installers): corrections, additions, removals
+- [Contact](https://www.generatorinstallerlist.com/contact): buyer and installer questions
+- [Privacy](https://www.generatorinstallerlist.com/privacy): analytics and data practices
+
+## Buyer guides
+
+- [Whole-house generator cost](https://www.generatorinstallerlist.com/guides/whole-house-generator-cost)
+- [What size generator do you need?](https://www.generatorinstallerlist.com/guides/what-size-generator)
+- [Questions to ask a generator installer](https://www.generatorinstallerlist.com/guides/questions-to-ask-generator-installer)
+- [Generator installation process and timeline](https://www.generatorinstallerlist.com/guides/generator-installation-process)
+- [Natural gas vs propane generators](https://www.generatorinstallerlist.com/guides/natural-gas-vs-propane-generator)
+- [Standby vs portable vs battery backup](https://www.generatorinstallerlist.com/guides/standby-vs-portable-vs-battery)
+- [Generator maintenance and warranty](https://www.generatorinstallerlist.com/guides/generator-maintenance-warranty)
+- [Generator permits, clearances, and codes](https://www.generatorinstallerlist.com/guides/generator-permits-and-codes)
+- [Transfer switch and interlock kits](https://www.generatorinstallerlist.com/guides/transfer-switch-installation)
+
+## Brand tag pages
+
+- [Generac](https://www.generatorinstallerlist.com/installers/tags/generac)
+- [Kohler](https://www.generatorinstallerlist.com/installers/tags/kohler)
+- [Cummins](https://www.generatorinstallerlist.com/installers/tags/cummins)
+- [Briggs & Stratton](https://www.generatorinstallerlist.com/installers/tags/briggs-stratton)
+
+Brand filters are convenience views. The directory is brand-agnostic.
+
+## Metro pages
+
+Metro pages live at /installers/{state-slug}/metros/{metro-slug}. Full enumeration is in the sitemap (/sitemap.xml).
+
+## What this site is not
+
+- Not a lead-generation broker.
+- Not affiliated with any generator manufacturer.
+- Not selling installer rank.
+- Listings are not endorsements. They are better starting points for the buyer's own due diligence on licensing, insurance, references, and scope.
+- We do not publish fabricated state-by-state average installation cost tables.
