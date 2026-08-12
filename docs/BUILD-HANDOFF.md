@@ -28,9 +28,19 @@
 
 19 states hit ≥50% core-query caps. Recorded in scrape `docs/national-cap-rate-notes.json`. Run metro supplements later; do not re-POST completed Maps runs.
 
+## Production
+
+- **Live:** https://evchargerinstallers.vercel.app
+- GitHub: https://github.com/AustinHardcastleDev/evchargerinstallers
+- Smoke (2026-08-12): `/`, `/installers`, `/installers/near-me`, `/installers/tn`, `/installers/tx/metros/houston`, `/installers/tn/atomic-electric-service-inc` (explicit), `/installers/tn/baker-electric-co` (medium), cost guide, robots, sitemap — all HTTP 200
+
 ## Domain / DNS handoff
 
-Custom domain `www.evchargerinstallerlist.com` was **not** purchased. Production should use the Vercel URL with `NEXT_PUBLIC_SITE_URL` until you authorize DNS.
+Custom domain `www.evchargerinstallerlist.com` was **not** purchased. Production uses the Vercel URL with `NEXT_PUBLIC_SITE_URL=https://evchargerinstallers.vercel.app` until you authorize DNS.
+
+## Search Console
+
+Connected GSC account currently has `barndobuilderlist.com` and `generatorinstallerlist.com` only. Adding `https://evchargerinstallers.vercel.app/` requires `GSC_ALLOW_DESTRUCTIVE=true`; deferred — submit sitemap after property is verified.
 
 ## Controller
 
