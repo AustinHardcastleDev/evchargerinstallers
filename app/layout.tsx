@@ -50,7 +50,7 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col">
         <Script
           src="https://analytics.ahrefs.com/analytics.js"
-          data-key="b2joC9DpGjWvDH4gUqg2RA"
+          data-key="+MZDGSVUl7mNfjq7vTqxuA"
           strategy="afterInteractive"
         />
         <SiteHeader />
