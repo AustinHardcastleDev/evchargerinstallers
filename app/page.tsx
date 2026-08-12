@@ -33,7 +33,7 @@ export const metadata = pageMetadata({
 
 const FAQS: FAQItem[] = [
   {
-    q: 'How does EVChargerInstallerList decide who makes the list?',
+    q: 'How does ChargerInstallerList decide who makes the list?',
     a: 'We cast a wide net, then check installer websites ourselves. A company stays on the list when their own site shows residential Level 2 EV charger signal: a dedicated page, repeated mentions, or at least one clear mention worth a first call. That is website signal, not a license check or endorsement.',
   },
   {

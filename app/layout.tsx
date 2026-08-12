@@ -67,7 +67,7 @@ function SiteHeader() {
       <div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-4 sm:flex-row sm:items-center sm:justify-between sm:gap-6 sm:px-6 lg:px-10">
         <Link href="/" className="flex min-w-0 flex-col gap-1.5">
           <span className="break-words text-[25px] font-extrabold leading-none tracking-[-0.035em] text-white">
-            EVChargerInstaller
+            ChargerInstaller
             <span className="text-[var(--color-accent)]">List</span>
           </span>
           <span className="meta text-[var(--color-band-muted)]">
@@ -96,7 +96,7 @@ function SiteFooter() {
       <div className="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-4 lg:px-10">
         <div>
           <div className="text-[22px] font-extrabold leading-none tracking-[-0.035em] text-white">
-            EVChargerInstaller
+            ChargerInstaller
             <span className="text-[var(--color-accent)]">List</span>
           </div>
           <p className="mt-4 max-w-sm text-[16px] leading-[1.65] text-[var(--color-band-body)]">

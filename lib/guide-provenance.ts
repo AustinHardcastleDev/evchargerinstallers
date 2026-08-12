@@ -6,7 +6,7 @@ export const GUIDE_DATE_PUBLISHED = '2026-08-11'
 export const GUIDE_DATE_MODIFIED = '2026-08-11'
 
 export const GUIDE_AUTHOR = {
-  name: 'EVChargerInstallerList Editorial',
+  name: 'ChargerInstallerList Editorial',
   url: '/about',
 }
 

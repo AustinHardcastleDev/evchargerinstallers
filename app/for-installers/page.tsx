@@ -6,7 +6,7 @@ import { pageMetadata } from '@/lib/seo'
 export const metadata = pageMetadata({
   title: 'For EV Charger Installers',
   description:
-    'Correct a listing, understand how EVChargerInstallerList works, and how to request removal.',
+    'Correct a listing, understand how ChargerInstallerList works, and how to request removal.',
   path: '/for-installers',
 })
 
@@ -35,7 +35,7 @@ export default function ForInstallersPage() {
       <div className="prose-content mt-10">
         <h2>How the list works</h2>
         <p>
-          EVChargerInstallerList is a buyer-first directory of{' '}
+          ChargerInstallerList is a buyer-first directory of{' '}
           {TOTAL_INSTALLERS.toLocaleString()} installers across {TOTAL_STATES}{' '}
           states, sorted by real website signal, not which brand you carry.
         </p>

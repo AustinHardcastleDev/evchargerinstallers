@@ -1,5 +1,5 @@
 export const SITE = {
-  name: 'EVChargerInstallerList',
+  name: 'ChargerInstallerList',
   domain: 'www.evchargerinstallerlist.com',
   url: 'https://www.evchargerinstallerlist.com',
   tagline: "Find someone who's installed one before.",

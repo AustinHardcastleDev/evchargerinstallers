@@ -5,7 +5,7 @@ import { pageMetadata } from '@/lib/seo'
 export const metadata = pageMetadata({
   title: 'Privacy Disclosure',
   description:
-    'How EVChargerInstallerList handles contact form submissions and site analytics.',
+    'How ChargerInstallerList handles contact form submissions and site analytics.',
   path: '/privacy',
 })
 
@@ -25,7 +25,7 @@ export default function PrivacyPage() {
           What this site collects, and what it does not.
         </h1>
         <p className="t-body mt-6 text-[19px]">
-          EVChargerInstallerList is an independent research directory. This page
+          ChargerInstallerList is an independent research directory. This page
           describes how contact submissions and basic site analytics work today.
         </p>
 
@@ -51,7 +51,7 @@ export default function PrivacyPage() {
           <p>
             Installer websites, manufacturer sites, and financing partners linked
             from this site have their own privacy policies. We do not control
-            what those sites collect when you leave EVChargerInstallerList.
+            what those sites collect when you leave ChargerInstallerList.
           </p>
 
           <h2>Questions</h2>

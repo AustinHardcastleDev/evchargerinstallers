@@ -3,9 +3,9 @@ import { ContactForm } from '@/components/ContactForm'
 import { pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
-  title: 'Contact EVChargerInstallerList',
+  title: 'Contact ChargerInstallerList',
   description:
-    'Send an installer correction, listing suggestion, buyer question, or update request for EVChargerInstallerList.',
+    'Send an installer correction, listing suggestion, buyer question, or update request for ChargerInstallerList.',
   path: '/contact',
 })
 
@@ -32,7 +32,7 @@ export default function ContactPage() {
 
       <div className="mt-10">
         <ContactForm
-          topic="EVChargerInstallerList contact"
+          topic="ChargerInstallerList contact"
           intro="Tell us what needs attention. Installer corrections are easiest when you include the listing URL or the installer's website."
           includeCompany
           includeListingUrl

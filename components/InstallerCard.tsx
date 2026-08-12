@@ -99,7 +99,7 @@ export function GeneratorReviewsBadge({
       className="tag-sponsored shrink-0 tabular"
       title="EV-specific reviews in the scraped sample"
     >
-      {n} gen review{n === 1 ? '' : 's'}
+      {n} EV review{n === 1 ? '' : 's'}
     </span>
   )
 }

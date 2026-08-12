@@ -1,7 +1,7 @@
 name: Rotate homepage discovery
 
 # Rebuilds the one-installer-per-state homepage sample each week and pushes
-# to master so the static Vercel production deploy actually rotates.
+# to main so the static Vercel production deploy actually rotates.
 on:
   schedule:
     # Mondays at 15:15 UTC
@@ -37,4 +37,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add lib/data/homepage-discovery.json
           git commit -m "Rotate homepage discovery sample (week $(node -e "console.log(Math.floor(Date.now()/(7*24*60*60*1000)))"))."
-          git push origin HEAD:master
+          git push origin HEAD:main

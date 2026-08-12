@@ -6,9 +6,9 @@ import { TOTAL_INSTALLERS, TOTAL_STATES } from '@/lib/installers'
 import { pageMetadata } from '@/lib/seo'
 
 export const metadata = pageMetadata({
-  title: 'About EVChargerInstallerList',
+  title: 'About ChargerInstallerList',
   description:
-    'How EVChargerInstallerList checks installer websites for EV charger signal and builds a buyer-first, brand-agnostic directory across 50 states.',
+    'How ChargerInstallerList checks installer websites for EV charger signal and builds a buyer-first, brand-agnostic directory across 50 states.',
   path: '/about',
 })
 
@@ -27,7 +27,7 @@ export default function AboutPage() {
       <h1 className="t-display mt-4">We did the installer research.</h1>
 
       <p className="t-body mt-6 text-[19px]">
-        EVChargerInstallerList is a working list of{' '}
+        ChargerInstallerList is a working list of{' '}
         {TOTAL_INSTALLERS.toLocaleString()} EV-charger-friendly installers
         across {TOTAL_STATES} states. It exists because the first question most
         buyers ask is also the messiest one: who is actually worth calling? We
@@ -112,7 +112,7 @@ export default function AboutPage() {
 
       <div className="mt-10">
         <ContactForm
-          topic="Question for EVChargerInstallerList"
+          topic="Question for ChargerInstallerList"
           intro="Flag an installer, correct an entry, or ask a buyer question. Specific notes are easier to route."
           includeListingUrl
         />

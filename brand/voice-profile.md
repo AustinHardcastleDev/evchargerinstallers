@@ -1,4 +1,4 @@
-# EVChargerInstallerList Voice Profile
+# ChargerInstallerList Voice Profile
 
 ## Voice summary
 Practical research for homeowners who need a Level 2 charger installed by an electrician who actually shows EV-charging work. We separate installers from public charging stations, networks, equipment sellers, and generic electrical listings so a buyer can call someone useful.
