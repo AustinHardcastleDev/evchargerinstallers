@@ -8,8 +8,8 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/:path*',
-        has: [{ type: 'host', value: 'evchargerinstallerlist.com' }],
-        destination: 'https://www.evchargerinstallerlist.com/:path*',
+        has: [{ type: 'host', value: 'chargerinstallerlist.com' }],
+        destination: 'https://www.chargerinstallerlist.com/:path*',
         permanent: true,
       },
     ]
